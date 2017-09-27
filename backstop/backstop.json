@@ -9,8 +9,8 @@
   "scenarios": [
     {
       "label": "Homepage",
-      "url": "http://dev-composer-redis-debug.pantheonsite.io/",
-      "referenceUrl": "http://live-composer-redis-debug.pantheonsite.io/",
+      "url": "http://dev-ed8c--backstop.pantheonsite.io/",
+      "referenceUrl": "http://live-ed8c--backstop.pantheonsite.io/",
       "hideSelectors": [],
       "selectors": [
         "document"
