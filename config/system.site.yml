@@ -1,7 +1,7 @@
 uuid: 0bcf2bbb-0342-45a4-8215-c61d0bd33ed2
-name: Demo of Backstop
+name: ed8c--backstop
 mail: steve.persch@pantheon.io
-slogan: 'Showing how visual regression testing can work in CI'
+slogan: ''
 page:
   403: ''
   404: ''
